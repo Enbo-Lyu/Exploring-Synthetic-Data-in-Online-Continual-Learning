@@ -1,1 +1,2 @@
-## read me
+## Exploring Synthetic Data in Online Continual Learning
+
